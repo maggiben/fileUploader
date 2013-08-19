@@ -1,6 +1,6 @@
 {
   "name": "fileUploader",
-  "description": "File uploader module",
+  "description": "XHR2 file uploader module",
   "keywords": [
     "file",
     "uploader",
@@ -19,11 +19,11 @@
   "main": "fileUploader.js",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "devDependencies": {
-    "mocha": "*",
-    "chai": "*",
-    "sinon": "*",
-    "sinon-chai"
-  },
   "homepage": "https://github.com/maggiben/fileUploader",
+  "devDependencies": {
+    "mocha": "~1.12.0",
+    "chai": "~1.7.2",
+    "sinon": "~1.7.3",
+    "sinon-chai": "~2.4.0"
+  }
 }

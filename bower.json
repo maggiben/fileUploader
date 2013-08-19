@@ -1,0 +1,29 @@
+{
+  "name": "fileUploader",
+  "description": "File uploader module",
+  "keywords": [
+    "file",
+    "uploader",
+    "xhr2"
+  ],
+  "author": {
+    "name": "Benjamin Maggi",
+    "email": "benjaminmaggi@gmail.com",
+    "url": "http://github.com/maggiben"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {},
+  "main": "fileUploader.js",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon": "*",
+    "sinon-chai"
+  },
+  "homepage": "https://github.com/maggiben/fileUploader",
+}
